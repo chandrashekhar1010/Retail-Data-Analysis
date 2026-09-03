@@ -83,56 +83,6 @@ The project includes visual analysis of:
 * Seaborn
 * Jupyter Notebook
 
-## 📁 Project Structure
-
-```text
-Retail-Data-Analysis/
-│
-├── Retail_Data_Analysis.ipynb
-├── online_retail.csv
-├── README.md
-├── requirements.txt
-├── .gitignore
-│
-└── images/
-    ├── orders_by_category.png
-    └── orders_by_region.png
-```
-
-## 🚀 How to Run the Project
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/YOUR_USERNAME/Retail-Data-Analysis.git
-```
-
-### 2. Navigate to the project directory
-
-```bash
-cd Retail-Data-Analysis
-```
-
-### 3. Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### 4. Launch Jupyter Notebook
-
-```bash
-jupyter notebook
-```
-
-Open:
-
-```text
-Retail_Data_Analysis.ipynb
-```
-
-Make sure `online_retail.csv` is present in the same project directory.
-
 ## 📈 Key Skills Demonstrated
 
 * Data cleaning
